@@ -1,0 +1,12 @@
+.sidebar{
+    display: grid;
+    grid-template-rows: 40px 40px 40px 40px 40px;
+    position: fixed;
+    top: 65px;
+    width: 50px;
+    bottom: 0;
+    left: 0;
+}
+body{
+    padding-left: 65px;
+}
